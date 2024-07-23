@@ -24,7 +24,7 @@ I am a passionate QA with a sharp eye and strong attention to details. After wor
 
 **Frameworks and Tools**
 | Selenium         | Playwright | Postman |
-| ![selenium](https://github.com/user-attachments/assets/b4254216-5583-45e3-975f-ca6cf186e261) | ![logos--playwright](https://github.com/user-attachments/assets/52f5eca6-54c0-4bcd-a7ea-f09b3386f575)
-| ![postman](https://github.com/user-attachments/assets/099b455f-1d53-4016-b6b4-6ecd39ec3666)|
+| ---------------- | ---------- | ------- |
+| ![selenium](https://github.com/user-attachments/assets/b4254216-5583-45e3-975f-ca6cf186e261) |<img width="30" alt="playwrightlogoResized" src="https://github.com/user-attachments/assets/e71b1593-c0d7-4dbc-814f-3d0a9eeabbd8">| ![postman](https://github.com/user-attachments/assets/099b455f-1d53-4016-b6b4-6ecd39ec3666)|
 
 
