@@ -27,4 +27,3 @@ I am a passionate QA with a sharp eye and strong attention to details. After wor
 | ---------------- | ---------- | ------- |
 | ![selenium](https://github.com/user-attachments/assets/b4254216-5583-45e3-975f-ca6cf186e261) |<img width="40" alt="playwrightlogoResized" src="https://github.com/user-attachments/assets/72cf9023-31a6-4a39-b93d-16a1d1d529c4">|![postman](https://github.com/user-attachments/assets/099b455f-1d53-4016-b6b4-6ecd39ec3666)|
 
-
