@@ -49,5 +49,6 @@ This project is perfect for beginners in test automation. SwagLabs reperesents a
 [project code](https://github.com/mtsonkova/Guru99-EComerce-Project-Playwright-JS)
 
 **Status:** In progress
+
 This project provides a Registration form. It has different access levels depending on whether you are a guest or a logged in user. It also gives access to backend. However API testing is not possible as there is no documentation provided for them.
 
