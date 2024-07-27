@@ -30,8 +30,8 @@ I am a passionate QA with a sharp eye and strong attention to details. After wor
 
 ## Projects
 
-### [SwagLabs](https://www.saucedemo.com/) test automation framework with Selenium and Java
-<img width="327" alt="SwagLabsSeleniumProject" src="https://github.com/user-attachments/assets/12e0a67d-c494-4f4c-b8a2-0cb754213a44">
+### SwagLabs test automation framework with Selenium and Java
+[<img width="327" alt="SwagLabsSeleniumProject" src="https://github.com/user-attachments/assets/12e0a67d-c494-4f4c-b8a2-0cb754213a44">](https://www.saucedemo.com/)
 [project code](https://github.com/mtsonkova/SwagLabsTestAutomation)
 
 This project is perfect for beginners in test automation. SwagLabs reperesents a real live eCommerce site, yet it is simplified. The site misses Registration form, but at the same time provides the following user options:
