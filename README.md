@@ -45,9 +45,9 @@ This project is perfect for beginners in test automation. SwagLabs reperesents a
   *  **visual_user:** missplaced Checkout button inside the shopping cart. Shopping cart icon missaligned and overlaps the horizontall line in upper secion of the website;
 ---
 
-### Guru99 ECommerce test automation framework with Playwright and JavaScript
+### Guru99 ECommerce test automation framework with Selenium and Java
 [<img width="464" alt="Guru99ECommerce" src="https://github.com/user-attachments/assets/49412224-6601-4f42-beb5-5b7dc296f14e">](http://live.techpanda.org/)
-[project code](https://github.com/mtsonkova/Guru99-EComerce-Project-Playwright-JS)
+[project code](https://github.com/mtsonkova/Guru99-EComerce-Project-Selenium-Java)
 
 **Status:** In progress
 
