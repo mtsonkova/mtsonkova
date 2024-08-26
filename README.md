@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a passionate QA with a sharp eye and strong attention to details. After working more than 5 years as a manual QA, I am eager to dive deep and explore the field of QA Automation. I am currently learning Playwright with JavaScript. 
+I am a passionate QA with a sharp eye and strong attention to details. After working more than 5 years as a manual QA, I am eager to dive deep and explore the field of QA Automation. I am currently learning Selenium with Java.
 
 **Languages**
 | Java          | JavaScript |
