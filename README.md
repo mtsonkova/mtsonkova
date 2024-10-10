@@ -42,10 +42,5 @@ Supports Get, POST, PUT, PATCH, DELETE for pet, store and user. Allows choice be
 - [restful-booker](https://restful-booker.herokuapp.com/apidoc/index.html)
 Requires authorization token to access the PUT and DELETE /booking endpoints
 
-- 🌱 I’m currently learning JavaScript, Type Script
-- 💬 Ask me about manual testing, Postman, JavaScript, websites to practice test automation
-- 📫 How to reach me: mtsonkova950@gmail.com
-- ⚡ Fun fact: I used ChatGPT to generate example business requirements for Swag Labs.
-
 ---
 
