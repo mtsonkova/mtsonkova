@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 I am a passionate QA with a sharp eye and strong attention to details. After working more than 5 years as a manual QA, I am eager to dive deep and explore the field of QA Automation. 
 
 To achieve my goal I have selected the following resources to practice test automation:
-- Swag Labs - [Swag Labs](https://www.saucedemo.com/)
+- [Swag Labs](https://www.saucedemo.com/)
 I chose this site because it is easy to automate and strait forward. This is a good first time project or just a side resource if you want to test a new tool or explore a new programming language. 
 
 - [Guru99](https://www.guru99.com/) E-Commerce Test Project [Live TechPanda](http://live.techpanda.org/)
