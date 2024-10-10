@@ -38,5 +38,9 @@ Supports Get, POST, PUT, PATCH, DELETE for both users and contacts.
 
 - [Swagger Petstore](https://petstore.swagger.io/)
 Supports Get, POST, PUT, PATCH, DELETE for pet, store and user. Allows choice between HTTP and HTTPS schemes. Allows testing of authorization.
+
+- [restful-booker](https://restful-booker.herokuapp.com/apidoc/index.html)
+Requires authorization token to access the PUT and DELETE /booking endpoints
+
 ---
 
