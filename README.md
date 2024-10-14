@@ -20,10 +20,10 @@ I am a passionate QA with a sharp eye and strong attention to details. After wor
 To achieve my goal I have selected the following resources to practice test automation:
 ### UI testing
 - [Swag Labs](https://www.saucedemo.com/)
-I chose this site because it is easy to automate and strait forward. This is a good first time project or just a side resource if you want to test a new tool or explore a new programming language. 
+I chose this site because it is easy to automate and strait forward. This is a good first time project or just a side resource if you want to test a new tool or explore a new programming language. - **in progress**
 
 - [Guru99](https://www.guru99.com/) E-Commerce Test Project [Live TechPanda](http://live.techpanda.org/)
-Similar to Swag Labs but with a lot more complex structure. This website mimics partly [Open Cart](https://www.opencart.com/index.php?route=cms/demo) functionality. It also provide access to backend admin panel so you can split the testing to frontend and backend parts. However the backend functionality is limited. You cannot delete created user or change the price of a product. You cannot add new products to the database as well. Yet you have permission to change the status of an order to Edit, Cancel, Put on Hold, Invoice, Ship and Reorder. These are actions that bring real monetary value to the owner of the online store.
+Similar to Swag Labs but with a lot more complex structure. This website mimics partly [Open Cart](https://www.opencart.com/index.php?route=cms/demo) functionality. It also provide access to backend admin panel so you can split the testing to frontend and backend parts. However the backend functionality is limited. You cannot delete created user or change the price of a product. You cannot add new products to the database as well. Yet you have permission to change the status of an order to Edit, Cancel, Put on Hold, Invoice, Ship and Reorder. These are actions that bring real monetary value to the owner of the online store. - **to do**
 
 - [XYZ Bank](https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login)
 A simple banking application created for testing purposes. It features two profles: Customer and Bank Manager.
