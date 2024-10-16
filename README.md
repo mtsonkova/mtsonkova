@@ -22,7 +22,7 @@ To achieve my goal I have selected the following resources to practice test auto
 - [Swag Labs](https://www.saucedemo.com/)
 I chose this site because it is easy to automate and strait forward. This is a good first time project or just a side resource if you want to test a new tool or explore a new programming language.
 
-  - [Manual testing repository](https://github.com/mtsonkova/SwagLabs-Testing-Project/tree/main)
+  - [Manual testing repository](https://github.com/mtsonkova/SwagLabs-Testing-Project/tree/main) - **done**
 
   - [Autonation testing repository](https://github.com/mtsonkova/SwagLabs-Testing-Project-Automation-with-Playwright) - **in progress**
 
