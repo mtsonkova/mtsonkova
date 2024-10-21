@@ -33,12 +33,12 @@ Similar to Swag Labs but with a lot more complex structure. This website mimics 
 A simple banking application created for testing purposes. It features two profles: Customer and Bank Manager. - **to do**
 
 - [Contact List App](https://thinking-tester-contact-list.herokuapp.com/) 
-Suitable for UI and API testing. You can test create new account, log in, and add new user. When adding new user you can practice traversing table rows and cells to obtain specific data. - **to do**
+Suitable for UI and API testing. You can test create new account, log in, and add new user. When adding new user you can practice traversing table rows and cells to obtain specific data. - **in progress**
 
 ### API Testing
 
 - [Contact List App](https://thinking-tester-contact-list.herokuapp.com/)
-Supports Get, POST, PUT, PATCH, DELETE for both users and contacts. - **to do**
+Supports Get, POST, PUT, PATCH, DELETE for both users and contacts. - **in progress**
 
 - [Swagger Petstore](https://petstore.swagger.io/)
 Supports Get, POST, PUT, PATCH, DELETE for pet, store and user. Allows choice between HTTP and HTTPS schemes. Allows testing of authorization. - **to do**
