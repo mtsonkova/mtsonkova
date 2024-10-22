@@ -26,7 +26,7 @@ I chose this site because it is easy to automate and strait forward. This is a g
 
   - [Autonation testing repository with Playwright and JavaScript](https://github.com/mtsonkova/SwagLabs-Testing-Project-Automation-with-Playwright) - **done**
 
-  - [Automation testing repositoru with Selenium and java](https://github.com/mtsonkova/SwagLabs-Selenium-Framework-with-Java.git) - **done**
+  - [Automation testing repository with Selenium and java](https://github.com/mtsonkova/SwagLabs-Selenium-Framework-with-Java.git) - **done**
 
 - [Guru99](https://www.guru99.com/) E-Commerce Test Project [Live TechPanda](http://live.techpanda.org/)
 Similar to Swag Labs but with a lot more complex structure. This website mimics partly [Open Cart](https://www.opencart.com/index.php?route=cms/demo) functionality. It also provide access to backend admin panel so you can split the testing to frontend and backend parts. However the backend functionality is limited. You cannot delete created user or change the price of a product. You cannot add new products to the database as well. Yet you have permission to change the status of an order to Edit, Cancel, Put on Hold, Invoice, Ship and Reorder. These are actions that bring real monetary value to the owner of the online store. - **to do**
