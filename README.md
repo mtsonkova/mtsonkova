@@ -33,15 +33,15 @@ Similar to Swag Labs but with a lot more complex structure. This website mimics 
 A simple banking application created for testing purposes. It features two profles: Customer and Bank Manager. - **to do**
 
 - [Contact List App](https://thinking-tester-contact-list.herokuapp.com/) 
-Suitable for UI and API testing. You can test create new account, log in, and add new user. When adding new user you can practice traversing table rows and cells to obtain specific data. - **in progress**
+Suitable for UI and API testing. You can test create new account, log in, and add new user. When adding new user you can practice traversing table rows and cells to obtain specific data. - **on hold -> will trt test automation with Java and Playwright + Allure Report instead of Selenium and ExtendReports**
 
 ### API Testing
 
 - [Contact List App](https://thinking-tester-contact-list.herokuapp.com/)
-Supports Get, POST, PUT, PATCH, DELETE for both users and contacts. - **in progress**
+Supports Get, POST, PUT, PATCH, DELETE for both users and contacts. - **Try RestAssured with Java**
 
 - [Swagger Petstore](https://petstore.swagger.io/)
-Supports Get, POST, PUT, PATCH, DELETE for pet, store and user. Allows choice between HTTP and HTTPS schemes. Allows testing of authorization. - **done**
+Supports Get, POST, PUT, PATCH, DELETE for pet, store and user. Allows choice between HTTP and HTTPS schemes. Allows testing of authorization. - **in progress**
   - [Petstore API testing with Java and RestAssured](https://github.com/mtsonkova/Petstore-RestAPITest-with-RestAssured)
 
 - [restful-booker](https://restful-booker.herokuapp.com/apidoc/index.html)
