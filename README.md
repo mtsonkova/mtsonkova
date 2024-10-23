@@ -35,7 +35,7 @@ Similar to Swag Labs but with a lot more complex structure. This website mimics 
 A simple banking application created for testing purposes. It features two profles: Customer and Bank Manager. - **to do**
 
 - [Contact List App](https://thinking-tester-contact-list.herokuapp.com/) 
-Suitable for UI and API testing. You can test create new account, log in, and add new user. When adding new user you can practice traversing table rows and cells to obtain specific data. - **on hold -> will trt test automation with Java and Playwright + Allure Report instead of Selenium and ExtendReports**
+Suitable for UI and API testing. You can test create new account, log in, and add new user. When adding new user you can practice traversing table rows and cells to obtain specific data. - **on hold -> will try Playwright with Typescript for both UI and API tests**
 
 ### API Testing
 
