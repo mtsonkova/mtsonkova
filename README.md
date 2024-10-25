@@ -43,7 +43,7 @@ Suitable for UI and API testing. You can test create new account, log in, and ad
 Supports Get, POST, PUT, PATCH, DELETE for both users and contacts. - **Try RestAssured with Java**
 
 - [Swagger Petstore](https://petstore.swagger.io/)
-Supports Get, POST, PUT, PATCH, DELETE for pet, store and user. Allows choice between HTTP and HTTPS schemes. Allows testing of authorization. - **in progress**
+Supports Get, POST, PUT, PATCH, DELETE for pet, store and user. Allows choice between HTTP and HTTPS schemes. Allows testing of authorization. - **done**
   - [Petstore API testing with Java and RestAssured](https://github.com/mtsonkova/Petstore-RestAPITest-with-RestAssured)
 
 - [restful-booker](https://restful-booker.herokuapp.com/apidoc/index.html)
