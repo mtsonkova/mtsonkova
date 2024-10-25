@@ -29,25 +29,19 @@ I chose this site because it is easy to automate and strait forward. This is a g
   - [Automation testing repository with Selenium and java](https://github.com/mtsonkova/SwagLabs-Selenium-Framework-with-Java.git) - **done**
 
 - [Guru99](https://www.guru99.com/) E-Commerce Test Project [Live TechPanda](http://live.techpanda.org/)
-Similar to Swag Labs but with a lot more complex structure. This website mimics partly [Open Cart](https://www.opencart.com/index.php?route=cms/demo) functionality. It also provide access to backend admin panel so you can split the testing to frontend and backend parts. However the backend functionality is limited. You cannot delete created user or change the price of a product. You cannot add new products to the database as well. Yet you have permission to change the status of an order to Edit, Cancel, Put on Hold, Invoice, Ship and Reorder. These are actions that bring real monetary value to the owner of the online store. - **to do**
+Similar to Swag Labs but with a lot more complex structure. This website mimics partly [Open Cart](https://www.opencart.com/index.php?route=cms/demo) functionality. It also provide access to backend admin panel so you can split the testing to frontend and backend parts. However the backend functionality is limited. You cannot delete created user or change the price of a product. You cannot add new products to the database as well. Yet you have permission to change the status of an order to Edit, Cancel, Put on Hold, Invoice, Ship and Reorder. These are actions that bring real monetary value to the owner of the online store. - **to do manual and automation**
 
 - [XYZ Bank](https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login)
-A simple banking application created for testing purposes. It features two profles: Customer and Bank Manager. - **to do**
-
-- [Contact List App](https://thinking-tester-contact-list.herokuapp.com/) 
-Suitable for UI and API testing. You can test create new account, log in, and add new user. When adding new user you can practice traversing table rows and cells to obtain specific data. - **on hold -> will try Playwright with Typescript for both UI and API tests**
+A simple banking application created for testing purposes. It features two profles: Customer and Bank Manager. - **to do/ manual tests only**
 
 ### API Testing
-
-- [Contact List App](https://thinking-tester-contact-list.herokuapp.com/)
-Supports Get, POST, PUT, PATCH, DELETE for both users and contacts. - **Try RestAssured with Java**
 
 - [Swagger Petstore](https://petstore.swagger.io/)
 Supports Get, POST, PUT, PATCH, DELETE for pet, store and user. Allows choice between HTTP and HTTPS schemes. Allows testing of authorization. - **done**
   - [Petstore API testing with Java and RestAssured](https://github.com/mtsonkova/Petstore-RestAPITest-with-RestAssured)
 
 - [restful-booker](https://restful-booker.herokuapp.com/apidoc/index.html)
-Requires authorization token to access the PUT and DELETE /booking endpoints - **to do**
+Requires authorization token to access the PUT and DELETE /booking endpoints - **Postman**
 
 ---
 
