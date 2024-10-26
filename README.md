@@ -31,17 +31,19 @@ I chose this site because it is easy to automate and strait forward. This is a g
 - [Guru99](https://www.guru99.com/) E-Commerce Test Project [Live TechPanda](http://live.techpanda.org/)
 Similar to Swag Labs but with a lot more complex structure. This website mimics partly [Open Cart](https://www.opencart.com/index.php?route=cms/demo) functionality. It also provide access to backend admin panel so you can split the testing to frontend and backend parts. However the backend functionality is limited. You cannot delete created user or change the price of a product. You cannot add new products to the database as well. Yet you have permission to change the status of an order to Edit, Cancel, Put on Hold, Invoice, Ship and Reorder. These are actions that bring real monetary value to the owner of the online store. - **to do manual and automation**
 
-- [XYZ Bank](https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login)
-A simple banking application created for testing purposes. It features two profles: Customer and Bank Manager. - **to do/ manual tests only**
 
 ### API Testing
 
 - [Swagger Petstore](https://petstore.swagger.io/)
 Supports Get, POST, PUT, PATCH, DELETE for pet, store and user. Allows choice between HTTP and HTTPS schemes. Allows testing of authorization. - **done**
   - [Petstore API testing with Java and RestAssured](https://github.com/mtsonkova/Petstore-RestAPITest-with-RestAssured)
+ 
+ [<img width="938" alt="image" src="https://github.com/user-attachments/assets/105047d6-4781-45f5-909f-36b0f6b11351">] (https://petstore.swagger.io/)
+
 
 - [restful-booker](https://restful-booker.herokuapp.com/apidoc/index.html)
-Requires authorization token to access the PUT and DELETE /booking endpoints - **Postman**
+Requires authorization token to access the PUT and DELETE /booking endpoints -
+  - [RestfullBooker-API-tests-with-Postman](https://github.com/mtsonkova/RestfullBooker-API-tests-with-Postman)
 
 ---
 
