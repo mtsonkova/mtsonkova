@@ -19,7 +19,7 @@ I am a passionate QA with a sharp eye and strong attention to details. After wor
 
 To achieve my goal I have selected the following resources to practice test automation:
 
-### UI testing
+## UI testing
 - [Swag Labs](https://www.saucedemo.com/)
 I chose this site because it is easy to automate and strait forward. This is a good first time project or just a side resource if you want to test a new tool or explore a new programming language.
 
@@ -32,14 +32,18 @@ I chose this site because it is easy to automate and strait forward. This is a g
 <img width="654" alt="image" src="https://github.com/user-attachments/assets/a369e50f-db47-4783-bb47-90128fedce5b">
 
 - [Guru99](https://www.guru99.com/) E-Commerce Test Project [Live TechPanda](http://live.techpanda.org/)
-Similar to Swag Labs but with a lot more complex structure. This website mimics partly [Open Cart](https://www.opencart.com/index.php?route=cms/demo) functionality. It also provide access to backend admin panel so you can split the testing to frontend and backend parts. However the backend functionality is limited. You cannot delete created user or change the price of a product. You cannot add new products to the database as well. Yet you have permission to change the status of an order to Edit, Cancel, Put on Hold, Invoice, Ship and Reorder. These are actions that bring real monetary value to the owner of the online store. - **in progress**
+Similar to Swag Labs but with a lot more complex structure. This website mimics partly [Open Cart](https://www.opencart.com/index.php?route=cms/demo) functionality. It also provide access to backend admin panel so you can split the testing to frontend and backend parts. However the backend functionality is limited. You cannot delete created user or change the price of a product. You cannot add new products to the database as well. Yet you have permission to change the status of an order to Edit, Cancel, Put on Hold, Invoice, Ship and Reorder. These are actions that bring real monetary value to the owner of the online store.
+
+
+
 
 <img width="941" alt="image" src="https://github.com/user-attachments/assets/ef776cb0-2951-42b2-a6c4-0d47b722b83f">
 
 
 
-### API Testing
+## API Testing
 
+### Swagger Petstore ### [link]((https://petstore.swagger.io/)
 - [Swagger Petstore](https://petstore.swagger.io/)
 Supports Get, POST, PUT, PATCH, DELETE for pet, store and user. Allows choice between HTTP and HTTPS schemes. Allows testing of authorization.
   - [Petstore API testing with Java and RestAssured](https://github.com/mtsonkova/Petstore-RestAPITest-with-RestAssured)
