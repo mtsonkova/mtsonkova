@@ -43,7 +43,7 @@ Similar to Swag Labs but with a lot more complex structure. This website mimics 
 
 ## API Testing
 
-### Swagger Petstore ### [link]((https://petstore.swagger.io/)
+### Swagger Petstore [link](https://petstore.swagger.io/)
 - [Swagger Petstore](https://petstore.swagger.io/)
 Supports Get, POST, PUT, PATCH, DELETE for pet, store and user. Allows choice between HTTP and HTTPS schemes. Allows testing of authorization.
   - [Petstore API testing with Java and RestAssured](https://github.com/mtsonkova/Petstore-RestAPITest-with-RestAssured)
