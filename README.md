@@ -27,7 +27,7 @@ I chose this site because it is easy to automate and strait forward. This is a g
 
   - [Manual testing repository](https://github.com/mtsonkova/SwagLabs-Testing-Project/tree/main)
 
-  - [Autonation testing repository with Playwright and JavaScript](https://github.com/mtsonkova/SwagLabs-Testing-Project-Automation-with-Playwright)
+  - [Automation testing repository with Playwright and JavaScript](https://github.com/mtsonkova/SwagLabs-Testing-Project-Automation-with-Playwright)
 
   - [Automation testing repository with Selenium and java](https://github.com/mtsonkova/SwagLabs-Selenium-Framework-with-Java.git)
 
