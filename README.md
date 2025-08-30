@@ -31,17 +31,18 @@ I chose this site because it is easy to automate and strait forward. This is a g
 
 
 ### [Lambda Test E-Commece Playground](https://github.com/mtsonkova/Ecommerce_Playground_LambdaTest_TS.git)
+This project is a complex eE-commerce site buit with Open Cart and provides solid base for multile test scenarios. The site is abailable at: (https://ecommerce-playground.lambdatest.io/)
 
-[Test Automation Project with Playwright and TypeScript](https://github.com/mtsonkova/Ecommerce_Playground_LambdaTest_TS.git)
+ - [Test Automation Project with Playwright and TypeScript](https://github.com/mtsonkova/Ecommerce_Playground_LambdaTest_TS.git)
 
-<img width="2376" height="829" alt="image" src="https://github.com/user-attachments/assets/6713a397-01b1-4c7e-8f3b-6219cc0af006" /> (https://ecommerce-playground.lambdatest.io/)
+<img width="2376" height="829" alt="image" src="https://github.com/user-attachments/assets/6713a397-01b1-4c7e-8f3b-6219cc0af006" /> 
 
 
 ## API Testing
 
 ### Postman
 
-#### Restfull Booker [link]([https://www.saucedemo.com/](https://github.com/mtsonkova/RestfullBooker-API-tests-with-Postman/tree/main))
+#### Restfull Booker [link](https://www.saucedemo.com/](https://github.com/mtsonkova/RestfullBooker-API-tests-with-Postman/tree/main)
 
  
 
