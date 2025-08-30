@@ -42,7 +42,7 @@ This project is a complex eE-commerce site buit with Open Cart and provides soli
 
 ### Postman
 
-#### Restfull Booker [link](https://www.saucedemo.com/](https://github.com/mtsonkova/RestfullBooker-API-tests-with-Postman/tree/main)
+#### Restfull Booker [link](https://github.com/mtsonkova/RestfullBooker-API-tests-with-Postman/tree/main)
 
  
 
