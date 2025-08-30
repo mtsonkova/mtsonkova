@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I used ChatGPT to generate example business requirements for my selected practice web sites.
 -->
 
-I am a passionate QA with a sharp eye and strong attention to details. After working more than 5 years as a manual QA, I am eager to dive deep and explore the field of QA Automation. 
+I am a passionate QA with a sharp eye and strong attention to detail. After working more than 5 years as a Manual QA, I’ve transitioned into Automation QA, gaining 9 months of experience with Playwright and JavaScript, and I’m excited to continue growing in this field with a strong interest in TypeScript.
 
-To achieve my goal I have selected the following resources to practice test automation:
+Here are a few practice projects I’ve built using popular demo websites to sharpen my automation skills::
 
 ## UI testing
 
@@ -25,41 +25,24 @@ To achieve my goal I have selected the following resources to practice test auto
 
 I chose this site because it is easy to automate and strait forward. This is a good first time project or just a side resource if you want to test a new tool or explore a new programming language.
 
-  - [Manual testing repository](https://github.com/mtsonkova/SwagLabs-Testing-Project/tree/main)
-
-  - [Automation testing repository with Playwright and JavaScript](https://github.com/mtsonkova/SwagLabs-Testing-Project-Automation-with-Playwright)
-
-  - [Automation testing repository with Selenium and java](https://github.com/mtsonkova/SwagLabs-Selenium-Framework-with-Java.git)
+ - [Automation testing repository with Playwright and JavaScript](https://github.com/mtsonkova/SwagLabs-Testing-Project-Automation-with-Playwright)
 
 <img width="654" alt="image" src="https://github.com/user-attachments/assets/a369e50f-db47-4783-bb47-90128fedce5b">
 
 
-### Guru99 E-Commerce Test Project [Live TechPanda](http://live.techpanda.org/)
+### [Lambda Test E-Commece Playground](https://ecommerce-playground.lambdatest.io/)
 
-Similar to Swag Labs but with a lot more complex structure. This website partially looks like [Open Cart](https://www.opencart.com/index.php?route=cms/demo) but with limited functionality. You also have access to [admin pannel](https://live.techpanda.org/index.php/backendlogin), but not all features work.  Yet you have permission to change the status of an order to Put on Hold and Invoice. These are actions that bring real monetary value to the owner of the online store.
+[Test Automation Project with Playwright and TypeScript](https://github.com/mtsonkova/Ecommerce_Playground_LambdaTest_TS.git)
 
-**Testing put on hold as the website currently experience some issues and is not stable**
-
-
-<img width="941" alt="image" src="https://github.com/user-attachments/assets/ef776cb0-2951-42b2-a6c4-0d47b722b83f">
-
+<img width="2376" height="829" alt="image" src="https://github.com/user-attachments/assets/6713a397-01b1-4c7e-8f3b-6219cc0af006" />
 
 
 ## API Testing
 
-### Swagger Petstore [link](https://petstore.swagger.io/)
+### Postman
 
-Supports Get, POST, PUT, PATCH, DELETE for pet, store and user. Allows choice between HTTP and HTTPS schemes. Allows testing of authorization.
-  - [Petstore API testing with Java and RestAssured](https://github.com/mtsonkova/Petstore-RestAPITest-with-RestAssured)
  
-<img width="938" alt="image" src="https://github.com/user-attachments/assets/105047d6-4781-45f5-909f-36b0f6b11351">
 
-### restful-booker [link](https://restful-booker.herokuapp.com/apidoc/index.html)
-
-Requires authorization token to access the PUT and DELETE /booking endpoints -
-  - [RestfullBooker-API-tests-with-Postman](https://github.com/mtsonkova/RestfullBooker-API-tests-with-Postman)
- 
-<img width="850" alt="image" src="https://github.com/user-attachments/assets/8fd1d8bf-2669-4694-afb3-6a55f21947d9">
 
 
 ---
