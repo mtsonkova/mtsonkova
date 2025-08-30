@@ -30,16 +30,18 @@ I chose this site because it is easy to automate and strait forward. This is a g
 <img width="654" alt="image" src="https://github.com/user-attachments/assets/a369e50f-db47-4783-bb47-90128fedce5b">
 
 
-### [Lambda Test E-Commece Playground](https://ecommerce-playground.lambdatest.io/)
+### [Lambda Test E-Commece Playground](https://github.com/mtsonkova/Ecommerce_Playground_LambdaTest_TS.git)
 
 [Test Automation Project with Playwright and TypeScript](https://github.com/mtsonkova/Ecommerce_Playground_LambdaTest_TS.git)
 
-<img width="2376" height="829" alt="image" src="https://github.com/user-attachments/assets/6713a397-01b1-4c7e-8f3b-6219cc0af006" />
+<img width="2376" height="829" alt="image" src="https://github.com/user-attachments/assets/6713a397-01b1-4c7e-8f3b-6219cc0af006" /> (https://ecommerce-playground.lambdatest.io/)
 
 
 ## API Testing
 
 ### Postman
+
+#### Restfull Booker [link]([https://www.saucedemo.com/](https://github.com/mtsonkova/RestfullBooker-API-tests-with-Postman/tree/main))
 
  
 
